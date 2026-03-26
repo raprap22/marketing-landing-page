@@ -229,7 +229,3 @@ Possible next improvements include:
 - If TypeScript flags `describe`, `it`, or `expect` as errors, this project is already configured with `vitest/globals` in `tsconfig.json`
 - If a remote image does not appear, check the allowed image domains in `next.config.ts`
 - If changes in `next.config.ts` do not seem to apply, restart the development server
-
-## License
-
-This project does not currently include a specific license. Add one based on your team or organization requirements.
